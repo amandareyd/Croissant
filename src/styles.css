@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient(-20deg, rgb(233, 222, 250) 0%, rgb(251, 252, 219) 100%);
+    background: linear-gradient(109.5deg, rgb(229, 233, 177) 11.2%, rgb(223, 205, 187) 100.2%);
 }
 .page-links{
     text-decoration: none;
@@ -15,3 +15,9 @@ body{
 h1{
     margin-top: 40px;
 }
+.email-link{
+    text-decoration: none;
+    color: cadetblue;
+    font-size: 25px;
+}
+
